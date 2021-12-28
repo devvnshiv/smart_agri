@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
         return
           MaterialApp(
             title: 'Smart Agriculture',
+            debugShowCheckedModeBanner: false,
             theme: ThemeData(
               // This is the theme of your application.
               //

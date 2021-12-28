@@ -16,7 +16,7 @@ class _SmartSwitchState extends State<SmartSwitch> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.orangeAccent,
-        title: const Text("Smart Garden",) ,
+        title: const Text("Smart Agriculture",) ,
       ),
       body: Column(
         children: [
